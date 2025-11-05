@@ -1,5 +1,7 @@
-streamlit 
-pandas 
-math
-
-
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+requests
+yfinance
